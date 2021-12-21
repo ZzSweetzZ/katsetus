@@ -4,3 +4,4 @@
 echo "*dances gangnam style aggressively*"
 echo "tanane kuupaev on:"
 date
+echo "ok tsau"
